@@ -1,0 +1,52 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.food-photo{
+    width: 600px;
+    height: auto;
+}
+
+.chef-photo {
+    width: 450px;
+    height: auto;
+}
+
+.main-header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.container{
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+.container p {
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.container ul,
+.container ol {
+    font-size: 22px;
+    line-height: 1.25;
+}
+
+.container a {
+    text-decoration: none;
+    color: #0770ad;
+}
+
+.container a:hover{
+    color: #729cb5;
+}
+
+
